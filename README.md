@@ -1,0 +1,2 @@
+# GEN-Z-Words
+words
